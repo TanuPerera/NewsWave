@@ -1,3 +1,3 @@
-# flutter_news_application
+# NewsWave App
 
-A new Flutter project.
+News App.
